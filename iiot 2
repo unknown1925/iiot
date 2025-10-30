@@ -1,4 +1,4 @@
-Experiment 2:
+// Experiment 2:
 // PIR Sensor with Arduino - Motion Detection Experiment
 int pirPin = 2;     // PIR sensor output connected to digital pin 2
 int ledPin = 13;    // LED connected to pin 13 (built-in LED)
